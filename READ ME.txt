@@ -1,0 +1,5 @@
+Name: Oritonda Ramugondo
+Contact: 0727787544
+email: oritonda.ramug@gmail.com
+Language used: C# windows forms and SQL
+

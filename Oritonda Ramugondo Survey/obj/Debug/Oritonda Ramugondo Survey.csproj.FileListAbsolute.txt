@@ -1,0 +1,12 @@
+C:\Users\Oritonda Ramugondo\source\repos\Oritonda Ramugondo Survey\Oritonda Ramugondo Survey\bin\Debug\Oritonda Ramugondo Survey.exe.config
+C:\Users\Oritonda Ramugondo\source\repos\Oritonda Ramugondo Survey\Oritonda Ramugondo Survey\bin\Debug\Oritonda Ramugondo Survey.exe
+C:\Users\Oritonda Ramugondo\source\repos\Oritonda Ramugondo Survey\Oritonda Ramugondo Survey\bin\Debug\Oritonda Ramugondo Survey.pdb
+C:\Users\Oritonda Ramugondo\source\repos\Oritonda Ramugondo Survey\Oritonda Ramugondo Survey\obj\Debug\Oritonda Ramugondo Survey.csprojAssemblyReference.cache
+C:\Users\Oritonda Ramugondo\source\repos\Oritonda Ramugondo Survey\Oritonda Ramugondo Survey\obj\Debug\Oritonda_Ramugondo_Survey.MainMenu.resources
+C:\Users\Oritonda Ramugondo\source\repos\Oritonda Ramugondo Survey\Oritonda Ramugondo Survey\obj\Debug\Oritonda_Ramugondo_Survey.Properties.Resources.resources
+C:\Users\Oritonda Ramugondo\source\repos\Oritonda Ramugondo Survey\Oritonda Ramugondo Survey\obj\Debug\Oritonda Ramugondo Survey.csproj.GenerateResource.cache
+C:\Users\Oritonda Ramugondo\source\repos\Oritonda Ramugondo Survey\Oritonda Ramugondo Survey\obj\Debug\Oritonda Ramugondo Survey.csproj.CoreCompileInputs.cache
+C:\Users\Oritonda Ramugondo\source\repos\Oritonda Ramugondo Survey\Oritonda Ramugondo Survey\obj\Debug\Oritonda Ramugondo Survey.exe
+C:\Users\Oritonda Ramugondo\source\repos\Oritonda Ramugondo Survey\Oritonda Ramugondo Survey\obj\Debug\Oritonda Ramugondo Survey.pdb
+C:\Users\Oritonda Ramugondo\source\repos\Oritonda Ramugondo Survey\Oritonda Ramugondo Survey\obj\Debug\Oritonda_Ramugondo_Survey.SurveyMenu.resources
+C:\Users\Oritonda Ramugondo\source\repos\Oritonda Ramugondo Survey\Oritonda Ramugondo Survey\obj\Debug\Oritonda_Ramugondo_Survey.Results.resources

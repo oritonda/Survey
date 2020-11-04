@@ -1,0 +1,20 @@
+CREATE DATABASE Survey;
+USE Survey;
+
+CREATE TABLE [dbo].[SurveyData](
+	[Surname] [nvarchar](max) NULL,
+	[Firstname] [nvarchar](max) NULL,
+	[ContactsNumber] [numeric](18, 0) NULL,
+	[Date] [date] NULL,
+	[Age] [numeric](18, 0) NULL,
+	[Pizza] [int] NULL,
+	[Pasta] [int] NULL,
+	[PapWors] [int] NULL,
+	[ChickenStirFry] [int] NULL,
+	[BeefStireFry] [int] NULL,
+	[Other] [int] NULL,
+	[eatOut] [numeric](18, 0) NULL,
+	[watchMovies] [numeric](18, 0) NULL,
+	[watchTv] [numeric](18, 0) NULL,
+	[ListenToRadio] [numeric](18, 0) NULL
+);
